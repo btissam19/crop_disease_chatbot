@@ -19,7 +19,15 @@ def model_prediction(test_image):
     input_arr = tf.keras.preprocessing.image.img_to_array(image)
     input_arr = np.array([input_arr])  # convert single image to batch
     predictions = model.predict(input_arr)
-    return np.argmax(predictions)  # return index of max element
+    
+    # Get the index of the predicted class
+    class_index = np.argmax(predictions)
+    
+    # Map class name to disease name
+    class_name = class_names[class_index]
+    disease_name = class_name.split("___")[1].replace("_", " ").title()  # Format disease name
+    
+    return disease_name
 
 # Define class names
 class_names = ['Apple___Apple_scab', 'Apple___Black_rot', 'Apple___Cedar_apple_rust', 'Apple___healthy',
@@ -92,5 +100,5 @@ elif app_mode == "Disease Recognition":
     if st.button("Predict"):
         with st.spinner("Predicting..."):
             st.write("Our Prediction")
-            result_index = model_prediction(test_image)
-            st.success(f"Model is Predicting it's a {class_names[result_index]}")
+            predicted_disease = model_prediction(test_image)
+            st.success(f"The disease name is a  {predicted_disease}")
