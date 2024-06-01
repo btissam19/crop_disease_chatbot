@@ -1,7 +1,7 @@
 {
     "1": {
       "class_name": "Apple___Apple_scab",
-      "disease_name": "Apple Scab",
+      "disease_name": "Apple Apple scab",
       "advice": "Remove and destroy fallen leaves, apply appropriate fungicides."
     },
     "2": {
@@ -11,7 +11,7 @@
     },
     "3": {
       "class_name": "Apple___Cedar_apple_rust",
-      "disease_name": "Cedar Apple Rust",
+      "disease_name": "Apple Cedar Apple Rust",
       "advice": "Remove infected leaves, plant resistant varieties."
     },
     "4": {
@@ -46,7 +46,7 @@
     },
     "10": {
       "class_name": "Corn_(maize)___Northern_Leaf_Blight",
-      "disease_name": "Corn Northern Leaf Blight",
+      "disease_name": "Corn (maize) Northern Leaf Blight",
       "advice": "Use balanced fertilization, practice crop rotation."
     },
     "11": {
