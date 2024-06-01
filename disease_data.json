@@ -1,193 +1,192 @@
 {
-    "1": {
-      "class_name": "Apple___Apple_scab",
-      "disease_name": "Apple Apple scab",
-      "advice": "Remove and destroy fallen leaves, apply appropriate fungicides."
-    },
-    "2": {
-      "class_name": "Apple___Black_rot",
-      "disease_name": "Black Rot",
-      "advice": "Prune out dead or infected branches, use copper-based fungicides."
-    },
-    "3": {
-      "class_name": "Apple___Cedar_apple_rust",
-      "disease_name": "Apple Cedar Apple Rust",
-      "advice": "Remove infected leaves, plant resistant varieties."
-    },
-    "4": {
-      "class_name": "Apple___healthy",
-      "disease_name": "Healthy Apple",
-      "advice": "Ensure proper nutrition and care, monitor for pests and diseases regularly."
-    },
-    "5": {
-      "class_name": "Blueberry___healthy",
-      "disease_name": "Healthy Blueberry",
-      "advice": "Ensure proper watering and sunlight, prune regularly."
-    },
-    "6": {
-      "class_name": "Cherry_(including_sour)___Powdery_mildew",
-      "disease_name": "Cherry Powdery Mildew",
-      "advice": "Apply fungicides, improve air circulation around plants."
-    },
-    "7": {
-      "class_name": "Cherry_(including_sour)___healthy",
-      "disease_name": "Healthy Cherry",
-      "advice": "Maintain proper care and hygiene, prune infected branches."
-    },
-    "8": {
-      "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
-      "disease_name": "Corn Cercospora Leaf Spot and Gray Leaf Spot",
-      "advice": "Apply appropriate fungicides, avoid overhead watering."
-    },
-    "9": {
-      "class_name": "Corn_(maize)___Common_rust_",
-      "disease_name": "Corn Common Rust",
-      "advice": "Plant resistant varieties, avoid planting in close proximity to infected plants."
-    },
-    "10": {
-      "class_name": "Corn_(maize)___Northern_Leaf_Blight",
-      "disease_name": "Corn (maize) Northern Leaf Blight",
-      "advice": "Use balanced fertilization, practice crop rotation."
-    },
-    "11": {
-      "class_name": "Corn_(maize)___healthy",
-      "disease_name": "Healthy Corn",
-      "advice": "Ensure proper irrigation, monitor for pests and diseases regularly."
-    },
-    "12": {
-      "class_name": "Grape___Black_rot",
-      "disease_name": "Grape Black Rot",
-      "advice": "Prune infected vines, apply fungicides before flowering."
-    },
-    "13": {
-      "class_name": "Grape___Esca_(Black_Measles)",
-      "disease_name": "Grape Esca (Black Measles)",
-      "advice": "Prune infected wood, use trunk protectants."
-    },
-    "14": {
-      "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
-      "disease_name": "Grape Leaf Blight (Isariopsis Leaf Spot)",
-      "advice": "Remove and destroy infected leaves, apply appropriate fungicides."
-    },
-    "15": {
-      "class_name": "Grape___healthy",
-      "disease_name": "Healthy Grape",
-      "advice": "Maintain proper vineyard hygiene, monitor for pests and diseases regularly."
-    },
-    "16": {
-      "class_name": "Orange___Haunglongbing_(Citrus_greening)",
-      "disease_name": "Orange Huanglongbing (Citrus Greening)",
-      "advice": "Remove infected trees, control vector populations."
-    },
-    "17": {
-      "class_name": "Peach___Bacterial_spot",
-      "disease_name": "Peach Bacterial Spot",
-      "advice": "Prune out infected branches, use copper-based fungicides."
-    },
-    "18": {
-      "class_name": "Peach___healthy",
-      "disease_name": "Healthy Peach",
-      "advice": "Ensure proper irrigation and nutrition, monitor for pests and diseases regularly."
-    },
-    "19": {
-      "class_name": "Pepper,_bell___Bacterial_spot",
-      "disease_name": "Bell Pepper Bacterial Spot",
-      "advice": "Use disease-free seeds, apply copper-based fungicides."
-    },
-    "20": {
-      "class_name": "Pepper,_bell___healthy",
-      "disease_name": "Healthy Bell Pepper",
-      "advice": "Ensure proper spacing between plants, avoid overhead watering."
-    },
-    "21": {
-      "class_name": "Potato___Early_blight",
-      "disease_name": "Potato Early Blight",
-      "advice": "Remove and destroy infected leaves, rotate crops."
-    },
-    "22": {
-      "class_name": "Potato___Late_blight",
-      "disease_name": "Potato Late Blight",
-      "advice": "Plant resistant varieties, avoid overhead irrigation."
-    },
-    "23": {
-      "class_name": "Potato___healthy",
-      "disease_name": "Healthy Potato",
-      "advice": "Plant disease-free seed potatoes, practice good crop rotation."
-    },
-    "24": {
-      "class_name": "Raspberry___healthy",
-      "disease_name": "Healthy Raspberry",
-      "advice": "Prune infected canes, apply appropriate fungicides."
-    },
-    "25": {
-      "class_name": "Soybean___healthy",
-      "disease_name": "Healthy Soybean",
-      "advice": "Plant resistant varieties, practice crop rotation."
-    },
-    "26": {
-      "class_name": "Squash___Powdery_mildew",
-      "disease_name": "Squash Powdery Mildew",
-      "advice": "Improve air circulation, apply sulfur-based fungicides."
-    },
-    "27": {
-      "class_name": "Strawberry___Leaf_scorch",
-      "disease_name": "Strawberry Leaf Scorch",
-      "advice": "Prune infected leaves, control weeds around plants."
-    },
-    "28": {
-      "class_name": "Strawberry___healthy",
-      "disease_name": "Healthy Strawberry",
-      "advice": "Ensure proper irrigation, remove and destroy infected plants."
-    },
-    "29": {
-      "class_name": "Tomato___Bacterial_spot",
-      "disease_name": "Tomato Bacterial Spot",
-      "advice": "Use disease-free seeds, apply copper-based fungicides."
-    },
-    "30": {
-      "class_name": "Tomato___Early_blight",
-      "disease_name": "Tomato Early Blight",
-      "advice": "Remove and destroy infected leaves, improve air circulation"
-    },
-    "31": {
-      "class_name": "Tomato___Late_blight",
-      "disease_name": "Tomato Late Blight",
-      "advice": "Apply appropriate fungicides, avoid overhead irrigation."
-    },
-    "32": {
-      "class_name": "Tomato___Leaf_Mold",
-      "disease_name": "Tomato Leaf Mold",
-      "advice": "Increase air circulation, avoid overhead watering."
-    },
-    "33": {
-      "class_name": "Tomato___Septoria_leaf_spot",
-      "disease_name": "Tomato Septoria Leaf Spot",
-      "advice": "Remove infected leaves, apply copper-based fungicides."
-    },
-    "34": {
-      "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
-      "disease_name": "Tomato Spider Mites Two-spotted Spider Mite",
-      "advice": "Use biological control agents, avoid excessive use of pesticides."
-    },
-    "35": {
-      "class_name": "Tomato___Target_Spot",
-      "disease_name": "Tomato Target Spot",
-      "advice": "Improve air circulation, avoid overhead watering."
-    },
-    "36": {
-      "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
-      "disease_name": "Tomato Yellow Leaf Curl Virus",
-      "advice": "Use resistant varieties, control whitefly populations."
-    },
-    "37": {
-      "class_name": "Tomato___Tomato_mosaic_virus",
-      "disease_name": "Tomato Mosaic Virus",
-      "advice": "Remove and destroy infected plants, control aphid populations."
-    },
-    "38": {
-      "class_name": "Tomato___healthy",
-      "disease_name": "Healthy Tomato",
-      "advice": "Ensure proper care and nutrition, monitor for pests and diseases regularly."
-    }
+  "1": {
+    "class_name": "Apple___Apple_scab",
+    "disease_name": "Apple Apple scab",
+    "advice": "Remove and destroy fallen leaves, apply appropriate fungicides."
+  },
+  "2": {
+    "class_name": "Apple___Black_rot",
+    "disease_name": "Apple Black rot",
+    "advice": "Prune out dead or infected branches, use copper-based fungicides."
+  },
+  "3": {
+    "class_name": "Apple___Cedar_apple_rust",
+    "disease_name": "Apple Cedar Apple Rust",
+    "advice": "Remove infected leaves, plant resistant varieties."
+  },
+  "4": {
+    "class_name": "Apple___healthy",
+    "disease_name": "Apple healthy",
+    "advice": "Ensure proper nutrition and care, monitor for pests and diseases regularly."
+  },
+  "5": {
+    "class_name": "Blueberry___healthy",
+    "disease_name": "Blueberry healthy",
+    "advice": "Ensure proper watering and sunlight, prune regularly."
+  },
+  "6": {
+    "class_name": "Cherry_(including_sour)___Powdery_mildew",
+    "disease_name": "Cherry (including_sour) Powdery mildew",
+    "advice": "Apply fungicides, improve air circulation around plants."
+  },
+  "7": {
+    "class_name": "Cherry_(including_sour)___healthy",
+    "disease_name": "Cherry (including_sour) healthy",
+    "advice": "Maintain proper care and hygiene, prune infected branches."
+  },
+  "8": {
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "disease_name": "Corn (maize) Cercospora leaf spot Gray leaf spot",
+    "advice": "Apply appropriate fungicides, avoid overhead watering."
+  },
+  "9": {
+    "class_name": "Corn_(maize)___Common_rust_",
+    "disease_name": "Corn (Maize) Common Rust",
+    "advice": "Plant resistant varieties, avoid planting in close proximity to infected plants."
+  },
+  "10": {
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "disease_name": "Corn (maize) Northern Leaf Blight",
+    "advice": "Use balanced fertilization, practice crop rotation."
+  },
+  "11": {
+    "class_name": "Corn_(maize)___healthy",
+    "disease_name": "Corn (maize) healthy",
+    "advice": "Ensure proper irrigation, monitor for pests and diseases regularly."
+  },
+  "12": {
+    "class_name": "Grape___Black_rot",
+    "disease_name": "Grape Black rot",
+    "advice": "Prune infected vines, apply fungicides before flowering."
+  },
+  "13": {
+    "class_name": "Grape___Esca_(Black_Measles)",
+    "disease_name": "Grape Esca (Black Measles)",
+    "advice": "Prune infected wood, use trunk protectants."
+  },
+  "14": {
+    "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "disease_name": "Grape Leaf blight (Isariopsis Leaf Spot)",
+    "advice": "Remove and destroy infected leaves, apply appropriate fungicides."
+  },
+  "15": {
+    "class_name": "Grape___healthy",
+    "disease_name": "Grape healthy",
+    "advice": "Maintain proper vineyard hygiene, monitor for pests and diseases regularly."
+  },
+  "16": {
+    "class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "disease_name": "Orange Haunglongbing (Citrus greening)",
+    "advice": "Remove infected trees, control vector populations."
+  },
+  "17": {
+    "class_name": "Peach___Bacterial_spot",
+    "disease_name": "Peach Bacterial spot",
+    "advice": "Prune out infected branches, use copper-based fungicides."
+  },
+  "18": {
+    "class_name": "Peach___healthy",
+    "disease_name": "Peach healthy",
+    "advice": "Ensure proper irrigation and nutrition, monitor for pests and diseases regularly."
+  },
+  "19": {
+    "class_name": "Pepper,_bell___Bacterial_spot",
+    "disease_name": "Pepper, bell Bacterial spot",
+    "advice": "Use disease-free seeds, apply copper-based fungicides."
+  },
+  "20": {
+    "class_name": "Pepper,_bell___healthy",
+    "disease_name": "Pepper, bell healthy",
+    "advice": "Ensure proper spacing between plants, avoid overhead watering."
+  },
+  "21": {
+    "class_name": "Potato___Early_blight",
+    "disease_name": "Potato Early bligh",
+    "advice": "Remove and destroy infected leaves, rotate crops."
+  },
+  "22": {
+    "class_name": "Potato___Late_blight",
+    "disease_name": "Potato Late blight",
+    "advice": "Plant resistant varieties, avoid overhead irrigation."
+  },
+  "23": {
+    "class_name": "Potato___healthy",
+    "disease_name": "Potato healthy",
+    "advice": "Plant disease-free seed potatoes, practice good crop rotation."
+  },
+  "24": {
+    "class_name": "Raspberry___healthy",
+    "disease_name": "Raspberry healthy",
+    "advice": "Prune infected canes, apply appropriate fungicides."
+  },
+  "25": {
+    "class_name": "Soybean___healthy",
+    "disease_name": "Soybean healthy",
+    "advice": "Plant resistant varieties, practice crop rotation."
+  },
+  "26": {
+    "class_name": "Squash___Powdery_mildew",
+    "disease_name": "Squash Powdery mildew",
+    "advice": "Improve air circulation, apply sulfur-based fungicides."
+  },
+  "27": {
+    "class_name": "Strawberry___Leaf_scorch",
+    "disease_name": "Strawberry Leaf scorch",
+    "advice": "Prune infected leaves, control weeds around plants."
+  },
+  "28": {
+    "class_name": "Strawberry___healthy",
+    "disease_name": "Strawberry healthy",
+    "advice": "Ensure proper irrigation, remove and destroy infected plants."
+  },
+  "29": {
+    "class_name": "Tomato___Bacterial_spot",
+    "disease_name": "Tomato Bacterial spot",
+    "advice": "Use disease-free seeds, apply copper-based fungicides."
+  },
+  "30": {
+    "class_name": "Tomato___Early_blight",
+    "disease_name": "Tomato Early blight",
+    "advice": "Remove and destroy infected leaves, improve air circulation"
+  },
+  "31": {
+    "class_name": "Tomato___Late_blight",
+    "disease_name": "Tomato Late blight",
+    "advice": "Apply appropriate fungicides, avoid overhead irrigation."
+  },
+  "32": {
+    "class_name": "Tomato___Leaf_Mold",
+    "disease_name": "Tomato Leaf Mold",
+    "advice": "Increase air circulation, avoid overhead watering."
+  },
+  "33": {
+    "class_name": "Tomato___Septoria_leaf_spot",
+    "disease_name": "Tomato Septoria leaf spot",
+    "advice": "Remove infected leaves, apply copper-based fungicides."
+  },
+  "34": {
+    "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "disease_name": "Tomato Spider mites Two-spotted spider mite",
+    "advice": "Use biological control agents, avoid excessive use of pesticides."
+  },
+  "35": {
+    "class_name": "Tomato___Target_Spot",
+    "disease_name": "Tomato Target Spot",
+    "advice": "Improve air circulation, avoid overhead watering."
+  },
+  "36": {
+    "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "disease_name": "Tomato Tomato Yellow Leaf Curl Virus",
+    "advice": "Use resistant varieties, control whitefly populations."
+  },
+  "37": {
+    "class_name": "Tomato___Tomato_mosaic_virus",
+    "disease_name": "Tomato Tomato mosaic virus",
+    "advice": "Remove and destroy infected plants, control aphid populations."
+  },
+  "38": {
+    "class_name": "Tomato___healthy",
+    "disease_name": "Tomato healthy",
+    "advice": "Ensure proper care and nutrition, monitor for pests and diseases regularly."
   }
-  
+}
