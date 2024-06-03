@@ -28,7 +28,7 @@ def model_prediction(test_image):
     # Map class name to disease name
     class_name = class_names[class_index]
 # Remove special characters like _ and ___
-    disease_name = re.sub(r'[_]+', ' ', class_name).title()  # Replace one or more underscores with a space and capitalize
+    disease_name = re.sub(r'[_]+', ' ', class_name)  # Replace one or more underscores with a space and capitalize
 
     return disease_name
 
