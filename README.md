@@ -1,5 +1,5 @@
 
-# Breadcrumbs: Crop Disease Chatbot
+# Crop Disease Chatbot
 
 ## Project Overview and Use Cases
 This project involves creating a model to recognize and classify crop diseases into 38 different categories. It can be used by anyone to predict the disease affecting their plants, provided they have some understanding of these 38 categories. Our model only predicts diseases that fall within these specified categories.
